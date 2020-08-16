@@ -1,0 +1,9 @@
+D:\DOT NET\13.DESIGN PATTERN & SOLID\Design Pattern Projects\SRPProblem\SRPProblem\bin\Debug\SRPProblem.exe.config
+D:\DOT NET\13.DESIGN PATTERN & SOLID\Design Pattern Projects\SRPProblem\SRPProblem\obj\Debug\SRPProblem.csprojResolveAssemblyReference.cache
+D:\DOT NET\13.DESIGN PATTERN & SOLID\Design Pattern Projects\SRPProblem\SRPProblem\bin\Debug\SRPProblem.exe
+D:\DOT NET\13.DESIGN PATTERN & SOLID\Design Pattern Projects\SRPProblem\SRPProblem\bin\Debug\SRPProblem.pdb
+D:\DOT NET\13.DESIGN PATTERN & SOLID\Design Pattern Projects\SRPProblem\SRPProblem\obj\Debug\SRPProblem.exe
+D:\DOT NET\13.DESIGN PATTERN & SOLID\Design Pattern Projects\SRPProblem\SRPProblem\obj\Debug\SRPProblem.pdb
+E:\1.DOTNET\13.DESIGN PATTERN & SOLID\2.Design Pattern Projects\1.SINGLE RESPONSIBILITY PRINCIPLE\SRPProblem\SRPProblem\bin\Debug\SRPProblem.exe.config
+E:\1.DOTNET\13.DESIGN PATTERN & SOLID\2.Design Pattern Projects\1.SINGLE RESPONSIBILITY PRINCIPLE\SRPProblem\SRPProblem\obj\Debug\SRPProblem.exe
+E:\1.DOTNET\13.DESIGN PATTERN & SOLID\2.Design Pattern Projects\1.SINGLE RESPONSIBILITY PRINCIPLE\SRPProblem\SRPProblem\obj\Debug\SRPProblem.pdb
